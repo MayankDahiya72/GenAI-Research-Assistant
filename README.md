@@ -102,43 +102,6 @@ arXiv_scientific_dataset.csv
 
 ---
 
-# ⚙ Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/your-username/AI-Research-Paper-Intelligence-System.git
-```
-
-Move into the project
-
-```bash
-cd AI-Research-Paper-Intelligence-System
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-# 🔑 Environment Variables
-
-Create a file named
-
-```
-.env
-```
-
-Add your Groq API key
-
-```
-GROQ_API_KEY=your_api_key_here
-```
-
----
 
 # ▶ Running the Project
 
