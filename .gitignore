@@ -216,3 +216,30 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# ============================
+# Environment Variables
+# ============================
+.env
+.env.*
+!.env.example
+
+# ============================
+# Jupyter Notebook
+# ============================
+.ipynb_checkpoints/
+
+# ============================
+# Generated Files
+# ============================
+embeddings.npy
+faiss_index.index
+
+# ============================
+# VS Code
+# ============================
+.vscode/
+
+# ============================
+# PyCharm
+# ============================
+.idea/
